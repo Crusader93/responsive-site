@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /test/
+
+Host: https://myresponsivesite.ua
+Sitemap: https://myresponsivesite.ua/sitemap.xml
